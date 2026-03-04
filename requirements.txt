@@ -1,0 +1,3 @@
+cat <<EOF > README.md
+[Paste your full README text here]
+EOFgit add .
