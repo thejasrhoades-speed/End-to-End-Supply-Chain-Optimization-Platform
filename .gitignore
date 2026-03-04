@@ -5,4 +5,12 @@ __pycache__/
 data/raw/*.csv
 mlruns/
 *.pkl
-.DS_Store
+.DS_Storevenv/
+mlruns/
+*.db
+__pycache__/
+*.pyc
+.env
+models/*.pkl
+models/*.h5
+data/raw/
