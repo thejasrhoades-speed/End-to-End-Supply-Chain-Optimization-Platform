@@ -120,4 +120,4 @@ fig2 = px.line(forecast_df, x="Date", y=["Forecast", "Lower Bound", "Upper Bound
                color_discrete_map={"Forecast": "#FF6B35", "Lower Bound": "#888", "Upper Bound": "#888"})
 st.plotly_chart(fig2, use_container_width=True)
 
-st.caption("Built with ❤️ using Python, Streamlit, and Plotly")
+st.caption("Built using Python, Streamlit, and Plotly")
